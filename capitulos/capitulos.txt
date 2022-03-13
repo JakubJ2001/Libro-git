@@ -1,1 +1,0 @@
-GIt es un sistema de control de versioness ideado por Linus Toval.
